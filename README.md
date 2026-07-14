@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/Inlionden/Leetrack/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Inlionden/Leetrack/tree/master/0242-valid-anagram) |
 | [0504-base-7](https://github.com/Inlionden/Leetrack/tree/master/0504-base-7) |
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/Inlionden/Leetrack/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Inlionden/Leetrack/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
