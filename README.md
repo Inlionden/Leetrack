@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [Arrays-and-Hashing/0001-two-sum](Arrays-and-Hashing/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Inlionden/Leetrack/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/Inlionden/Leetrack/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Inlionden/Leetrack/tree/master/0242-valid-anagram) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [Arrays-and-Hashing/0001-two-sum](Arrays-and-Hashing/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Inlionden/Leetrack/tree/master/0049-group-anagrams) |
 ## Linked List
 |  |
