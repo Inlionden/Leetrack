@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Inlionden/Leetrack/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/Inlionden/Leetrack/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Inlionden/Leetrack/tree/master/0242-valid-anagram) |
+| [Sliding-Window/0438-find-all-anagrams-in-a-string](Sliding-Window/0438-find-all-anagrams-in-a-string) |
 | [0504-base-7](https://github.com/Inlionden/Leetrack/tree/master/0504-base-7) |
 ## Hash Table
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Inlionden/Leetrack/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/Inlionden/Leetrack/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Inlionden/Leetrack/tree/master/0242-valid-anagram) |
+| [Sliding-Window/0438-find-all-anagrams-in-a-string](Sliding-Window/0438-find-all-anagrams-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -41,5 +43,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [Sliding-Window/0438-find-all-anagrams-in-a-string](Sliding-Window/0438-find-all-anagrams-in-a-string) |
 | [Sliding-Window/0643-maximum-average-subarray-i](Sliding-Window/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
