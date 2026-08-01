@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Inlionden/Leetrack/tree/master/0242-valid-anagram) |
 | [Sliding-Window/0438-find-all-anagrams-in-a-string](Sliding-Window/0438-find-all-anagrams-in-a-string) |
 | [Sliding-Window/0567-permutation-in-string](Sliding-Window/0567-permutation-in-string) |
+| [Sliding-Window/2461-maximum-sum-of-distinct-subarrays-with-length-k](Sliding-Window/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sorting
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [Arrays-and-Hashing/0001-two-sum](Arrays-and-Hashing/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Inlionden/Leetrack/tree/master/0049-group-anagrams) |
 | [Sliding-Window/0643-maximum-average-subarray-i](Sliding-Window/0643-maximum-average-subarray-i) |
+| [Sliding-Window/2461-maximum-sum-of-distinct-subarrays-with-length-k](Sliding-Window/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Linked List
 |  |
 | ------- |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [Sliding-Window/0438-find-all-anagrams-in-a-string](Sliding-Window/0438-find-all-anagrams-in-a-string) |
 | [Sliding-Window/0567-permutation-in-string](Sliding-Window/0567-permutation-in-string) |
 | [Sliding-Window/0643-maximum-average-subarray-i](Sliding-Window/0643-maximum-average-subarray-i) |
+| [Sliding-Window/2461-maximum-sum-of-distinct-subarrays-with-length-k](Sliding-Window/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
 |  |
 | ------- |
