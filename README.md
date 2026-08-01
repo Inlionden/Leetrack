@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [Arrays-and-Hashing/0001-two-sum](Arrays-and-Hashing/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Inlionden/Leetrack/tree/master/0049-group-anagrams) |
+| [Sliding-Window/0643-maximum-average-subarray-i](Sliding-Window/0643-maximum-average-subarray-i) |
 ## Linked List
 |  |
 | ------- |
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Inlionden/Leetrack/tree/master/0206-reverse-linked-list) |
+## Sliding Window
+|  |
+| ------- |
+| [Sliding-Window/0643-maximum-average-subarray-i](Sliding-Window/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
